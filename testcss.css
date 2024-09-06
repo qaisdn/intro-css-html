@@ -1,0 +1,25 @@
+* {
+    background-color: black;
+    color:white;
+}
+
+h1 {
+    height: 30x;
+}
+
+#modules{
+    width: 250px;
+}
+
+#yone{
+    max-width: 200p;
+    max-height: 200px;
+    border-radius: 60px;
+    position: fixed;
+    top: 10px;
+    right: 10px;
+    border: 200px snow;
+    border-radius: 60px
+    
+}
+
